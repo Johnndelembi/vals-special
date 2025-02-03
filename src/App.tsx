@@ -22,11 +22,11 @@ const track = async () => {
 function App() {
   const steps = [
     {
-      content: "Heyyyyy, pretty girl.",
+      content: "Heyyy, shortstack.",
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
+      content: `Ever since we met on that first day Pre-medic.
       And somehow, you've been on my mind ever since.
       `,
       image: "/character/two.png",
@@ -42,12 +42,12 @@ and you make spending time together feel too short.`,
       image: "/character/four.png",
     },
     {
-      content: `I look forward to when I'll see you again,
-hold your hands, and look into your pretty eyes.`,
+      content: `I look forward to being with you for the rest of my days babygirl, and when I get to see you again,
+i promise to hold your hands, and look into your pretty eyes, and never let go.`,
       image: "/character/five.png",
     },
     {
-      content: "So now I've got a question for you…",
+      content: "So now I've got a question for you my shortstack…",
       image: "/character/six.png",
     },
     {
